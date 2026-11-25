@@ -5,7 +5,7 @@ A small command-line tool that reads a context-free grammar from a text file (or
 Made for the class Python for Linguists 2.
 
 ```
-$ python grammar.py -f example_grammar.txt -n 5
+$ python grammar.py -f text.txt -n 5
 a tall kid loves the dog
 the dog runs
 the dog runs every day
