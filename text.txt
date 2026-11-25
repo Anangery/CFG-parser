@@ -1,0 +1,15 @@
+s -> dp vp
+s -> dp vp adv
+dp -> det np
+np -> n
+np -> adj n
+vp -> iv
+vp -> tv dp
+det -> "the"
+det -> "a"
+adj -> "tall"
+n -> "kid"
+n -> "dog"
+iv -> "runs"
+tv -> "loves"
+adv -> "every day"
